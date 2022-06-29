@@ -85,6 +85,7 @@ At overstock, we strive to keep you stylish through a range of servises that inc
   
   <li>Tapish Sharma : https://www.linkedin.com/in/tapish23 </li>
   <li>Aman Dubey :https://www.linkedin.com/in/aman-dubey-65170920b/ </li>
+  <li>Sandeep Raj :https://www.linkedin.com/in/sandeep-raj-b17413234/</li>
   
 
  </ol>
